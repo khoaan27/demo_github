@@ -1,0 +1,12 @@
+.error{
+    color:red;
+    font-size: large;
+}
+.success{
+    color:yellow;
+    font-size:50px;
+}
+.ok{
+    color:green;
+    font-style: italic;
+}
